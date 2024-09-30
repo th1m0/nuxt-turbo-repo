@@ -1,0 +1,10 @@
+{
+  "name": "pyserver",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "python3 app.py",
+    "postinstall": "pip3 install -r requirements.txt"
+  },
+  "dependencies": {}
+}
