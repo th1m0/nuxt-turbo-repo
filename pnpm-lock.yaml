@@ -82,6 +82,8 @@ importers:
         specifier: latest
         version: 4.4.5(vue@3.5.10)
 
+  apps/pyserver: {}
+
   apps/web:
     dependencies:
       '@repo/ui':
